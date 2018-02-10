@@ -9,3 +9,4 @@ media_folder: "img/uploads" # Media files will be stored in the repo under image
 collections:
   - label: "Pages"
     name: "pages"
+    files:
