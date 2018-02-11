@@ -27,12 +27,6 @@ collections:
         name: "sample"
         file: "sample.md"
         fields:
-          - label: Intro
-            name: intro
-            widget: string
-          - label: Layout
-            name: layout
-            widget: string
           - label: Title
             name: title
             widget: string
@@ -41,4 +35,10 @@ collections:
             widget: string
           - label: Permalink
             name: permalink
+            widget: string
+          - label: Intro
+            name: intro
+            widget: string
+          - label: Layout
+            name: layout
             widget: string
