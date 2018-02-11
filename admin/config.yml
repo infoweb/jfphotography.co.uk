@@ -38,5 +38,5 @@ collections:
             widget: string
           - label: Intro
             name: intro
-            widget: string
+            widget: markdown
 
