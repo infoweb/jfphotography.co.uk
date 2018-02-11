@@ -1,5 +1,5 @@
 ---
-title: Weddings
+title: Weddings 2
 description: >-
   Creative, Natural, Modern, Traditional and customized to your Special Day.
   Wedding Photographer based in SW London/Surrey Area.
@@ -9,25 +9,4 @@ intro: >-
   Wedding Photographer based in SW London/Surrey Area.
 layout: default
 ---
-
-
-<div class="container">
-	<div class="row">
-		<div class="col-md-12">
-			<h2 class="eurostile_extended purple">{{ page.title }}</h2>
-		</div>
-	</div>
-
-	<div class="row">
-		<div class="col-md-10 col-md-offset-1">
-			<p class="eurostile_extended purple" style="margin:20px 0;">{{ page.intro }}</p>
-		</div>
-	</div>
-
-	<div class="row">
-		<div class="col-md-12">
-			<img src="img/weddings.jpg" class="img-responsive" width="1246" alt="weddings">
-		</div>
-	</div>
-</div>
 
