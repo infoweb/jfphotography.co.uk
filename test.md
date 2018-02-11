@@ -1,8 +1,8 @@
 ---
-title: Test 1
+title: Test 2
 description: Description
 permalink: /test/
-intro: intro
-layout: default
+intro: some intro test
+layout: test
 ---
 
