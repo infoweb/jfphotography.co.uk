@@ -19,5 +19,8 @@ collections:
       - label: "Commercial"
         name: "commerical"
         file: "commercial.html"
-
+        fields:
+          - label: Intro
+            name: intro
+            widget: string
 
