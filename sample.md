@@ -1,5 +1,5 @@
 ---
-intro: Sample 2
+intro: Sample 3
 layout: default
 ---
 
