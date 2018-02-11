@@ -1,5 +1,5 @@
 ---
-title: Weddings
+title: Weddings 2
 description: Description
 permalink: /test/
 intro: >-
@@ -7,6 +7,4 @@ intro: >-
   Wedding Photographer based in SW London/Surrey Area.
 layout: test
 ---
-
-<h1>{{ page.title }}</h1>
 
