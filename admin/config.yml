@@ -33,6 +33,15 @@ collections:
           - label: Layout
             name: layout
             widget: string
+          - label: Title
+            name: title
+            widget: string
+          - label: Description
+            name: description
+            widget: string
+          - label: Permalink
+            name: permalink
+            widget: string
           - label: Body
             name: body
             widget: markdown
