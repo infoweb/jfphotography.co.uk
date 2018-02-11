@@ -25,7 +25,7 @@ collections:
             widget: string
       - label: "Test"
         name: "test"
-        file: "test.md"
+        file: "_data/test.yml"
         fields:
           - label: Title
             name: title
