@@ -2,4 +2,6 @@
 intro: Sample
 layout: default
 ---
-# do **some** _stuff _
+# { page.intro }
+
+do **some** _stuff _
