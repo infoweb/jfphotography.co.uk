@@ -14,7 +14,7 @@ permalink: /test/
 
 	<div class="row">
 		<div class="col-md-10 col-md-offset-1">
-			<p class="eurostile_extended purple" style="margin:20px 0;">!!{{ site.data.test.intro }}!!</p>
+			<p class="eurostile_extended purple" style="margin:20px 0;">{{ site.data.test.intro }}</p>
 		</div>
 	</div>
 
