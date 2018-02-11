@@ -23,7 +23,6 @@ collections:
           - label: Intro
             name: intro
             widget: string
-
       - label: "Sample"
         name: "sample"
         file: "sample.md"
@@ -37,4 +36,3 @@ collections:
           - label: Body
             name: body
             widget: markdown
-
