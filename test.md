@@ -2,7 +2,7 @@
 title: Weddings
 description: Creative, Natural, Modern, Traditional and customized to your Special Day. Wedding Photographer based in SW London/Surrey Area.
 layout: default
-permalink: /weddings/
+permalink: /test/
 ---
 
 <div class="container">
