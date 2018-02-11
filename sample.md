@@ -2,6 +2,6 @@
 intro: Sample
 layout: default
 ---
-# { page.intro }
+# {{ page.intro }}
 
 do **some** _stuff _
