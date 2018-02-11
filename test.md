@@ -14,7 +14,7 @@ permalink: /test/
 
 	<div class="row">
 		<div class="col-md-10 col-md-offset-1">
-			<p class="eurostile_extended purple" style="margin:20px 0;">Creative, Natural, Modern, Traditional and customized to your Special Day. Wedding Photographer based in SW London/Surrey Area.</p>
+			<p class="eurostile_extended purple" style="margin:20px 0;">!!{{ site.data.test.intro }}!!</p>
 		</div>
 	</div>
 
