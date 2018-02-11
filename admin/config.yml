@@ -42,6 +42,3 @@ collections:
           - label: Permalink
             name: permalink
             widget: string
-          - label: Body
-            name: body
-            widget: markdown
