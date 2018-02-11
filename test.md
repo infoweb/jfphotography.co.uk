@@ -1,8 +1,10 @@
 ---
-title: Test 2
+title: Weddings
 description: Description
 permalink: /test/
-intro: some intro test
+intro: >-
+  Creative, Natural, Modern, Traditional and customized to your Special Day.
+  Wedding Photographer based in SW London/Surrey Area.
 layout: test
 ---
 
