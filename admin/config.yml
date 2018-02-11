@@ -24,3 +24,17 @@ collections:
             name: intro
             widget: string
 
+      - label: "Sample"
+        name: "sample"
+        file: "sample.md"
+        fields:
+          - label: Intro
+            name: intro
+            widget: string
+          - label: Layout
+            name: layout
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+
