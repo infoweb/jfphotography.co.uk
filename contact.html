@@ -10,7 +10,6 @@ permalink: /contact/
 			<h2 class="eurostile_extended purple">Enquiry</h2>
 
 			<form method="POST" action="{{ site.subsume }}jfphotography/contact">
-			{% comment %}<form action="/contact/thankyou/" method="POST">{% endcomment %}
 				<div class="form-group">
 					<label for="name">Name</label>
 					<input id="name" name="name" type="text" class="form-control" placeholder="Name">
@@ -24,6 +23,10 @@ permalink: /contact/
 				<div class="form-group">
 					<label for="enquiry">Enquiry</label>
 					<textarea id="enquiry" name="enquiry" class="form-control" rows="5"></textarea>
+				</div>
+
+				<div class="form-group">
+					<div class="g-recaptcha" data-sitekey="6LcEk2MUAAAAAA2OGeS_w-8iTllvnleR1A0KJhFi"></div>
 				</div>
 
 				<button type="submit" class="btn btn-default">Submit</button>
