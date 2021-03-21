@@ -1,7 +1,0 @@
-title: Jackie Frost Photography
-url: "https://www.jfphotography.co.uk"
-baseurl: "/"
-
-subsume: https://api.subsume.io/
-
-exclude: ['CNAME', '*.sublime-*']
